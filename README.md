@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é João 👋
 
-###### Sou desenvolvedor Front/Back-end na [@BotsBuy](https://botsbuy.store/).
+###### Sou desenvolvedor Front/Back-end.
 
 <div>
 <img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=1FC41A" />
