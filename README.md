@@ -6,12 +6,6 @@
   Firebase Store, GIT & DiscordJS.
 ````
 
-````bash
-> Help --contact
-> Github: irrecusavel
-> Discord: @desfeito
-````
-
 <div align="center">
 <picture>
   <source
