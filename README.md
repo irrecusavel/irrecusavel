@@ -1,6 +1,6 @@
 ````bash
 > Help --info
-> Back-end developer
+> Front-end developer
 > Skills --info
 > JavaScript, TypeScript, Python, MongoDB,
   Firebase Store, GIT & DiscordJS.
