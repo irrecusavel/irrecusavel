@@ -1,5 +1,5 @@
 <div>
-  <a href="https://komarev.com" align="text-align: left;">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" align="text-align: left;">
     <img src="https://komarev.com/ghpvc/?username=irrecusavel&style=flat-square&color=000000&label=views">
   </a>
   <br>
