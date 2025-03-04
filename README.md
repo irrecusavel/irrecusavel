@@ -3,6 +3,6 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,java,discordjs,nextjs,tailwindcss,react,svelte" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,java,discordjs,nextjs,tailwindcss,react,svelte" alt="My Skills" width="325" />
   </a>
 </div>
